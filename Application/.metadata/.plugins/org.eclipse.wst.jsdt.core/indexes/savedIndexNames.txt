@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/alexis/Java/J2E-Spring-MVC/2020/Pande/Application/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3338320844.index
+3612031238.index
+3349199566.index
+560891827.index
+625560558.index
