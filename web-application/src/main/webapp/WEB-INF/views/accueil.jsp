@@ -7,16 +7,21 @@
 <title>Notre application web</title>
 </head>
 <body>
-	<h1>J2E C'est génial !!!</h1>
-	<br>
-	<h2>Voici mon prénom : ${prenom}</h2>
-	<br>
-	
-	<form action="/web-application/accueil" method="POST">
-		<p><font color="red">${erreur_login}</font></p>
-		Prénom : <input name="prenom" type="text" />
-		Mot de passe : <input name="password" type="password" />
-		<input type="submit" />
-	</form>
+
+<h1>J2E C'est génial !!!</h1>
+<br>
+
+<form action="/web-application/" method="POST">
+
+<p><font color=red>${erreur_login}</font></p>
+
+Prenom : <input name="prenom" type="text" />
+Mot de Passe : <input name="password" type="password" />
+
+<input type="submit">
+
+</form>
+
+
 </body>
 </html>

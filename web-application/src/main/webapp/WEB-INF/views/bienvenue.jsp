@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>Bienvenue : ${prenom}, ton mot de passe est : ${password}</h2>
+
+<h2>Bienvenue : ${prenom} et voici ton mot de passe : ${password}</h2>
+
 </body>
 </html>
