@@ -13,7 +13,7 @@
 
 <form action="/web-application/" method="POST">
 
-<p><font color=red>${erreur_login}</font></p>
+<p><font color=red>${error_login}</font></p>
 
 Prenom : <input name="prenom" type="text" />
 Mot de Passe : <input name="password" type="password" />

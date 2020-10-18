@@ -826,3 +826,12 @@ Binding(COMMAND+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-10-18 17:56:43.560
 !MESSAGE executing callback sts4.classpath.QTySCuZx SUCCESS [done]
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-10-18 18:32:54.499
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-10-18 18:32:54.512
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-10-18 18:32:54.539
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
