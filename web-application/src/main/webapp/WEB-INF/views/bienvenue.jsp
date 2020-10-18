@@ -10,5 +10,7 @@
 
 <h2>Bienvenue : ${prenom} et voici ton mot de passe : ${password}</h2>
 
+Pour voir vos tâches <a href="/web-application/liste?prenom=${prenom}">Cliquez ici !</a>
+
 </body>
 </html>

@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Voici la liste des tâches à effectuer : </h1>
+	<p>${prenom}</p><h1>Voici la liste des tâches à effectuer : </h1>
 	
 		<p>${liste}</p>;
 </body>

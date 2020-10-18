@@ -16,9 +16,9 @@ public class ListeController {
 	ListeAFaireService listeAFaireService;
 
 	@RequestMapping(value = "/liste", method = RequestMethod.GET)
-	public String MaListeDesTaches(Model model) {
+	public String MaListeDesTaches(@RequestParam String prenom, Model model) {
 		
-		
+		model.addAttribute("prenom", prenom);
 		model.addAttribute("liste", listeAFaireService.recupererListe("Mes élèves"));
 		
 		return "liste";
